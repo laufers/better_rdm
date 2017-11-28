@@ -1,17 +1,3 @@
----
-# title: Test
-# author: Author Name
-geometry: margin=1in
-header-includes:
-    - \usepackage{fancyhdr}
-    - \fancyhf{}
-    - \fancyhead[LE,RO]{README.txt Guide}
-    - \fancyfoot[LO,LE]{\textit{Document created on \today}}
-    - \fancyfoot[CE,CO]{\thepage}
-    - \pagestyle{fancy}
-
-# abstract: README.txt files, sometimes referred to as codebooks, provide the necessary information, or metadata, needed to make digital assets (numerical data, photographs, spread sheets, movies) add value and make working with these data easier and accessible to others. This document will help serve as a guide as to what should and can be included in a well-formed codebook.
----
 
 # Guide for creating README.txt (Codebook)
 
